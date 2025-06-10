@@ -1,0 +1,115 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.lib
+*.so
+*.so.*
+*.dylib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.bin
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.gmon
+*.prof
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Build Directories
+build/
+bin/
+obj/
+dist/
+Debug/
+Release/
+
+# Editor Specific Files
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.tlog
+ipch/
+*.VC.db
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_CPack_Packages/
+DartConfiguration.tcl
+*.dir
+*.dep
+
+# Clang
+.clang-format
+
+# Other Common Editor/IDE Files
+*~
+\#*#
+*.swp
+*.bak
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
